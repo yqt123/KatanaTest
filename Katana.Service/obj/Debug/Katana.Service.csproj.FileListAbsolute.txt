@@ -1,0 +1,9 @@
+E:\KatanaTest\Katana.Service\bin\Debug\Katana.Service.dll
+E:\KatanaTest\Katana.Service\bin\Debug\Katana.Service.pdb
+E:\KatanaTest\Katana.Service\bin\Debug\Katana.IService.dll
+E:\KatanaTest\Katana.Service\bin\Debug\Katana.Model.dll
+E:\KatanaTest\Katana.Service\bin\Debug\Katana.IService.pdb
+E:\KatanaTest\Katana.Service\bin\Debug\Katana.Model.pdb
+E:\KatanaTest\Katana.Service\obj\Debug\Katana.Service.csprojResolveAssemblyReference.cache
+E:\KatanaTest\Katana.Service\obj\Debug\Katana.Service.dll
+E:\KatanaTest\Katana.Service\obj\Debug\Katana.Service.pdb

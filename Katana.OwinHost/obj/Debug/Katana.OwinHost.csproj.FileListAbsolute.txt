@@ -1,0 +1,8 @@
+E:\KatanaTest\Katana.OwinHost\bin\Katana.OwinHost.dll
+E:\KatanaTest\Katana.OwinHost\bin\Katana.OwinHost.pdb
+E:\KatanaTest\Katana.OwinHost\obj\Debug\Katana.OwinHost.csprojResolveAssemblyReference.cache
+E:\KatanaTest\Katana.OwinHost\obj\Debug\Katana.OwinHost.dll
+E:\KatanaTest\Katana.OwinHost\obj\Debug\Katana.OwinHost.pdb
+E:\KatanaTest\Katana.OwinHost\bin\Microsoft.Owin.dll
+E:\KatanaTest\Katana.OwinHost\bin\Owin.dll
+E:\KatanaTest\Katana.OwinHost\bin\Microsoft.Owin.xml

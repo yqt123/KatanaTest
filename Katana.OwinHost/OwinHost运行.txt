@@ -1,0 +1,5 @@
+cmd
+//调到执行目录
+cd /d E:\KatanaTest\Katana.OwinHost
+//调用OwinHost
+E:\KatanaTest\Katana.OwinHost>E:\KatanaTest\Katana.OwinHost\OwinHost.4.0.0\tools\OwinHost.exe

@@ -39,3 +39,17 @@ E:\KatanaTest\KatanaTest\bin\Microsoft.Owin.Host.SystemWeb.dll
 E:\KatanaTest\KatanaTest\bin\Microsoft.Owin.xml
 E:\KatanaTest\KatanaTest\bin\Microsoft.Owin.Host.SystemWeb.xml
 E:\KatanaTest\KatanaTest\bin\KatanaTest.dll.config
+E:\KatanaTest\KatanaTest\bin\Katana.IService.dll
+E:\KatanaTest\KatanaTest\bin\Katana.Model.dll
+E:\KatanaTest\KatanaTest\bin\Katana.Service.dll
+E:\KatanaTest\KatanaTest\bin\Newtonsoft.Json.dll
+E:\KatanaTest\KatanaTest\bin\System.Net.Http.Formatting.dll
+E:\KatanaTest\KatanaTest\bin\System.Web.Http.dll
+E:\KatanaTest\KatanaTest\bin\System.Web.Http.Owin.dll
+E:\KatanaTest\KatanaTest\bin\Katana.IService.pdb
+E:\KatanaTest\KatanaTest\bin\Katana.Model.pdb
+E:\KatanaTest\KatanaTest\bin\Katana.Service.pdb
+E:\KatanaTest\KatanaTest\bin\Newtonsoft.Json.xml
+E:\KatanaTest\KatanaTest\bin\System.Net.Http.Formatting.xml
+E:\KatanaTest\KatanaTest\bin\System.Web.Http.xml
+E:\KatanaTest\KatanaTest\bin\System.Web.Http.Owin.xml

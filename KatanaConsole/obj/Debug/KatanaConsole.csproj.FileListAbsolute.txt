@@ -1,0 +1,15 @@
+E:\KatanaTest\KatanaConsole\bin\Debug\KatanaConsole.exe.config
+E:\KatanaTest\KatanaConsole\bin\Debug\KatanaConsole.exe
+E:\KatanaTest\KatanaConsole\bin\Debug\KatanaConsole.pdb
+E:\KatanaTest\KatanaConsole\bin\Debug\Microsoft.Owin.Diagnostics.dll
+E:\KatanaTest\KatanaConsole\bin\Debug\Microsoft.Owin.dll
+E:\KatanaTest\KatanaConsole\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\KatanaTest\KatanaConsole\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\KatanaTest\KatanaConsole\bin\Debug\Owin.dll
+E:\KatanaTest\KatanaConsole\bin\Debug\Microsoft.Owin.xml
+E:\KatanaTest\KatanaConsole\bin\Debug\Microsoft.Owin.Diagnostics.xml
+E:\KatanaTest\KatanaConsole\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\KatanaTest\KatanaConsole\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\KatanaTest\KatanaConsole\obj\Debug\KatanaConsole.csprojResolveAssemblyReference.cache
+E:\KatanaTest\KatanaConsole\obj\Debug\KatanaConsole.exe
+E:\KatanaTest\KatanaConsole\obj\Debug\KatanaConsole.pdb

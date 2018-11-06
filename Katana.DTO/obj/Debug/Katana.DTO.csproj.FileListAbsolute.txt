@@ -1,0 +1,5 @@
+E:\KatanaTest\Katana.DTO\bin\Debug\Katana.DTO.dll
+E:\KatanaTest\Katana.DTO\bin\Debug\Katana.DTO.pdb
+E:\KatanaTest\Katana.DTO\obj\Debug\Katana.DTO.dll
+E:\KatanaTest\Katana.DTO\obj\Debug\Katana.DTO.pdb
+E:\KatanaTest\Katana.DTO\obj\Debug\Katana.DTO.csprojResolveAssemblyReference.cache

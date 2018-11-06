@@ -1,0 +1,4 @@
+E:\KatanaTest\Katana.Module\bin\Debug\Katana.Model.dll
+E:\KatanaTest\Katana.Module\bin\Debug\Katana.Model.pdb
+E:\KatanaTest\Katana.Module\obj\Debug\Katana.Model.dll
+E:\KatanaTest\Katana.Module\obj\Debug\Katana.Model.pdb
