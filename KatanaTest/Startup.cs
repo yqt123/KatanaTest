@@ -13,13 +13,13 @@ namespace KatanaTest
     {
         public void Configuration(IAppBuilder app)
         {
-            app.Run(context =>
-            {
-                context.Response.ContentType = "text/plain";
-                return context.Response.WriteAsync("Hello World");
-            });
+            //app.Run(context =>
+            //{
+            //    context.Response.ContentType = "text/plain";
+            //    return context.Response.WriteAsync("Hello World");
+            //});
 
-            //app.UseNancy();
+            app.UseNancy();
 
             //var config = new HttpConfiguration();
             //config.MapHttpAttributeRoutes();
